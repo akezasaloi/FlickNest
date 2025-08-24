@@ -1,4 +1,4 @@
-export default function Signin() {
+export default function HeroMovie() {
     return (
       <div>
         {/* <Home/> */}
